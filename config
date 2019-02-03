@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 2,
+    "files.eol": "\n",
+    "editor.renderWhitespace": "boundary",
+    "files.trimTrailingWhitespace": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "typescript.validate.enable": false,
+    "javascript.validate.enable": false
+}

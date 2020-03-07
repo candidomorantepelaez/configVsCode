@@ -5,5 +5,6 @@
     "files.trimTrailingWhitespace": true,
     "workbench.startupEditor": "newUntitledFile",
     "typescript.validate.enable": false,
-    "javascript.validate.enable": false
+    "javascript.validate.enable": false,
+    "editor.formatOnSave": true
 }
